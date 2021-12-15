@@ -17,3 +17,5 @@ function areThereDuplicates() {
 function areThereDuplicates() {
     
 }
+
+// BONUS: Can you solve this algorithm in one line?
