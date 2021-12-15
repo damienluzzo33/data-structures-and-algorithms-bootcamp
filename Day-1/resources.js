@@ -14,3 +14,8 @@
 
 //@ Colt Steele's way of teaching big O:
 //@ https://www.youtube.com/watch?v=kS_gr2_-ws8
+
+//@ More In-Depth about big O:
+//@ https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
+//@ https://betterprogramming.pub/big-o-notation-for-dummies-like-me-98ac2d141f9f
+//@ https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation?page=1&tab=votes#tab-top
