@@ -10,4 +10,4 @@ or the integer itself if it is not divisible by any
 // What should the output be?
 // What have we done that seems similar to this?
 // Solve/Simplify
-// Look back/Refactor, how can we solve this differently but just as efficiently?
+// Look back/Refactor, can we solve this differently but just as efficiently?
