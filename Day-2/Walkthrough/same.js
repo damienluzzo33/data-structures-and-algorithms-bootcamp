@@ -24,6 +24,6 @@ function same(arr, arr2) {
 }
 
 
-function same(arr, arr2) {
+function same() {
 
 }

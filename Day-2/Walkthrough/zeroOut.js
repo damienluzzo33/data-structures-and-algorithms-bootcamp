@@ -4,7 +4,7 @@ The function should find the first pair where the sum is 0.
 Return an array that includes both values that sum to zero or undefined if a pair does not exist.
 Test Cases: 
 zeroOut([-3, -2, -1, 0, 1, 2, 3]) returns [-3, 3]
-zeroOut([-2, -1, 0, 1, 2, 3]) returns undefined
+zeroOut([-2, -1, 0, 1, 2, 3]) returns [-2, 2]
 zeroOut([1, 2, 3]) returns undefined
 */
 
@@ -19,10 +19,10 @@ function zeroOut(arr) {
             }
         }
     }
-    return false;
+    return undefined;
 }
 
 
-function zeroOut(arr) {
+function zeroOut() {
 
 }
