@@ -13,20 +13,19 @@
 
 function countUniqueValues(arr) {
     // TODO: Account for the edge case of an empty array
-    
     // TODO: Declare your two pointers, but instead of making them start at the beginning and end, make them start next to each other at the beginning
     
     // TODO: Continue to loop as long as your furthest pointer doesn't go past the array
     while() {
-        /* TODO: If the elements at the two pointers are not equal (they're unique!), 
-        increment the beginning pointer, 
-        swap the elements at the current positions of the two pointers, 
-        then increment the second pointer 
-        */
-        if() {
+        // TODO: If the elements at the two pointers are not equal (they're unique!), 
+        
+        // TODO Tips - increment the beginning pointer, 
+        // TODO Tips - swap the elements at the current positions of the two pointers, 
+        // TODO Tips- increment the second pointer 
+        if () {
             
             // TODO: If they aren't unique, move the furthest pointer
-        }else {
+        } else {
             
         }
     }
