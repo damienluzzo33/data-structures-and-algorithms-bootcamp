@@ -16,23 +16,24 @@ function same(arr, arr2) {
     // TODO: Declare your frequency counters
     
 
-    for(let val of arr) {
+    for (let val of arr) {
         // TODO: Count each value in arr, and increase the counter for each value
         
     }
-    for(let val of arr2) {
+    for (let val of arr2) {
         // TODO: Count each value in arr2, and increase the counter for each value
         
     }
 
     // TODO: Loop over the keys in one frequency counter
-    for(let key in ) {
+    for (let key in ) {
         // TODO: Check to see if the same key in one frequency counter is squared in the other frequency counter, if not return false
         
 
         // TODO: Check to see if the squared key has the same counter value as the corresponding key in the other counter, if not return false
         
     }
+    
     return true;
 }
 
