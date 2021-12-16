@@ -12,10 +12,7 @@
 
 
 function countUniqueValues(arr) {
-    // TODO: Comment what this is doing
-    if (arr.length === 0) {
-        return 0;
-    }
+    // TODO: Account for the edge case of an empty array
     // TODO: Declare your two pointers, but instead of making them start at the beginning and end, make them start next to each other at the beginning
     
     // TODO: Continue to loop as long as your furthest pointer doesn't go past the array

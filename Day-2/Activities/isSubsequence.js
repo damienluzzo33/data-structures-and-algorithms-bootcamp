@@ -5,7 +5,9 @@
 //*  it will do a comparison to make sure one string is a substring of the other
 
 
-function isSubsequence(str1, str2) {
+function isSubsequence(mainString, subString) {
+    // TODO: Account for the edge case of the main string being empty
+
     // TODO: Create pointers that start at the beginning of both strings
     
     // TODO: Catch the edge case of if the substring string inputted was empty
