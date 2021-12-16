@@ -1,9 +1,9 @@
-// validAnagram Psuedocode
-/* Given two strings, 
-write a function to determine if the second string is an anagram of the first. 
-An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman.
-(Use the frequency counter approach to solve this)
-*/
+
+//*  Given two strings, 
+//*  write a function to determine if the second string is an anagram of the first. 
+//*  An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman.
+//*  (Hint: Use the frequency counter approach to solve this)
+
 
 function validAnagram(str1, str2){
     // TODO: Create frequency counters to keep track of each characters in both strings
@@ -25,3 +25,7 @@ function validAnagram(str1, str2){
     }
     return true
 }
+
+
+// TODO: call the "validAnagram" function with a valid input
+validAnagram();
