@@ -1,12 +1,12 @@
-/*
-Write a function called same, which accepts two arrays. 
-The function should return true if every value in the array has its corresponding value squared in the second array. 
-The frequency of values must be the same.
 
-Test case:
-same([1,2,3,4], [1,4,9,16]) resolves as true
-same([1,2,3,4], [1,3,5,25]) resolves as false
-*/
+//*  Write a function called same, which accepts two arrays. 
+//*  The function should return true if every value in the array has its corresponding value squared in the second array. 
+//*  The frequency of values must be the same.
+
+//*  Test cases:
+//*  same([1,2,3,4], [1,4,9,16]) resolves as true
+//*  same([1,2,3,4], [1,3,5,25]) resolves as false
+
 
 
 function same(arr, arr2) {
@@ -35,3 +35,6 @@ function same(arr, arr2) {
     }
     return true;
 }
+
+// TODO: call the "same" function with a valid input
+same();

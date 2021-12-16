@@ -9,7 +9,7 @@ same([1,2,3,4], [1,3,5,25]) resolves as false
 */
 
 // Naive Approach
-function same(arr, arr2) {
+function naiveSame(arr, arr2) {
     if(arr.length !== arr2.length) {
         return false;
     }
