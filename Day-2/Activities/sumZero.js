@@ -16,13 +16,13 @@ function sumZero(arr) {
         // TODO: Add the elements that correspond to the two pointers and store it in a variable
         
         // TODO: Check to see if the sum of the two elements equals 0, if so, return the pair
-        if(sum === 0 ) {
+        if (sum === 0 ) {
             
             // TODO: if the sum of the two elements is less than 0, move the beginning pointer to the right
-        }else if() {
+        } else if () {
             
             // TODO: if the sum of the two elements is greater than 0, move the end pointer to the left
-        }else if() {
+        } else if () {
             
         }
     }
