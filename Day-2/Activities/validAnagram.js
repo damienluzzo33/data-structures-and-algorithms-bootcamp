@@ -5,7 +5,9 @@ An anagram is a word, phrase, or name formed by rearranging the letters of anoth
 (Use the frequency counter approach to solve this)
 */
 
-function validAnagram(str1, str2){
+function validAnagram(string, anagram){
+    // TODO: Edge case of string and anagram not being the same length
+
     // TODO: Create frequency counters to keep track of each characters in both strings
     
 
