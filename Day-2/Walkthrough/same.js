@@ -28,5 +28,5 @@ function naiveSame(arr, arr2) {
 //* Better approach
 
 function same() {
-
+    
 }
