@@ -1,3 +1,5 @@
+//?  FREQUENCY COUNTER
+
 function same(arr, arr2) {
     if(arr.length !== arr2.length) {
         return false;

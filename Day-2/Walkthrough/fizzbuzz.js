@@ -1,3 +1,5 @@
+//? NORMAL ALGORITHM
+
 //*  Write a function that takes in an integer and returns fizz buzz if it is divisible by 3 and 5,
 //*  fizz if it is divisible by 3,
 //*  buzz if it is divisible by 5,

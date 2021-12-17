@@ -1,3 +1,4 @@
+//?  MULTIPLE POINTERS
 
 //*  Implement a function called, areThereDuplicates which accepts a variable number of arguments, and checks whether there are any duplicates among the arguments passed in
 //*  Can solve this using either Frequency Counter or Multiple Pointers

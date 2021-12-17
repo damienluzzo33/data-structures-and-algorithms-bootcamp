@@ -1,3 +1,5 @@
+//?  REGULAR ALGORITHM
+
 function fizzbuzz(num) {
     if(typeof num !== "number") return undefined;
     

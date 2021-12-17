@@ -1,3 +1,4 @@
+//?  MULTIPLE POINTERS
 
 //*  Write a function called averagePair. 
 //*  Given a sorted array of integers and a target average, 

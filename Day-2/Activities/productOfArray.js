@@ -1,3 +1,5 @@
+//? RECURSION
+
 //* write a function that will give you the product of all items in the array recursively
 //* (Hint) use a helper function to affect the running total
 

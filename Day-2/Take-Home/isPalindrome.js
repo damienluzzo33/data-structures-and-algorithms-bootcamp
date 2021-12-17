@@ -1,3 +1,4 @@
+//?  MULTIPLE POINTERS
 
 //*  Write a function that takes in a string and return true if it is a palindrome, if not return false
 //*  YOU ARE NOT ALLOWED TO USE BUILT-IN STRING METHODS

@@ -1,3 +1,5 @@
+//?  REGULAR ALGORITHM
+
 //*  Write code to create a function that returns the factorial of `num`
 
 //*  What is being asked?
