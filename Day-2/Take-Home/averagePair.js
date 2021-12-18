@@ -10,6 +10,9 @@
 
 //*  Declare any parameters you deem necessary
 
+//* EXAMPLES:
+//* [1, 3, 5, 7] , 6  -->  true
+//* [2, 4, 6, 8] , 6  -->  false
 
 function averagePair() {
 

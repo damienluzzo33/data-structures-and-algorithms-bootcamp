@@ -21,3 +21,13 @@ function productOfArray(arr) {
 }
 
 // TODO: Invoke productOfArray with a correct input
+
+
+
+
+function pureProductOfArray(arr) {
+    // TODO: set up base case
+
+    // TODO: recursively call the function with a slice of the array and multiply result to the first element in the array
+
+}

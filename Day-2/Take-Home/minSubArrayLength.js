@@ -11,14 +11,12 @@
 //*  minSubArrayLength([11, 6, 2, 7, 15], 42) --> 0 (because no subarray meets this condition)
 
 
-//*  HINT 1: start your window with the edges starting on the same index
+//*  HINT 1: start your window with the edges starting on the same index or one after another at the beginning
 
 //*  HINT 2: Use a while loop with a terminating condition that runs while the beginning index of the window is less that the length of the array
 
 //*  HINT 3: You'll need to use an if, else if, else conditional that will grow, shrink, or break out of the loop based on specified conditions that will compare the value of the current "total" and the integer passed into the function
 
-
 function minSubArrayLength(arr,sum) {
-
+    
 }
-

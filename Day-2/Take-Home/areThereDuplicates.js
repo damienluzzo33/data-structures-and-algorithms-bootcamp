@@ -8,6 +8,12 @@
 //*  By variable number of arguments, search up the arguments object on MDN! https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
 
 
+//* EXAMPLES:
+//*  arguments:  1, 1, 2, 3   -->   true
+//*  arguments:  2, 3, 4, 5, 6   -->  false
+//*  arguments:  "f", "h", "j", "j", "b"  -->  true 
+
+
 //*  Frequency Counter Approach
 //*  HINT: Do we need to declare parameters?
 

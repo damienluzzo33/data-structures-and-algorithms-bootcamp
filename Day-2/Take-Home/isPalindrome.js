@@ -7,6 +7,10 @@
 
 //*  Declare any parameters you deem necessary
 
+//*  EXAMPLE:
+//*  "abba"  -->  true
+//*  "pizza"  -->  false
+
 function isPalindrome() {
 
 }

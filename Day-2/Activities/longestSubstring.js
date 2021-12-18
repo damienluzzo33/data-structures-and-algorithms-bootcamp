@@ -2,7 +2,7 @@
 
 //*  Create a function called “longestSubstring” that accepts a string and return the length of the longest substring that contains all unique characters.
 
-//*  In other words, the function should using a sliding window to keep track of the longest 
+//*  In other words, the function should use a sliding window to keep track of the longest substring
 
 function longestSubstring(str){
 

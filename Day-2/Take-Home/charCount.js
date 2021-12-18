@@ -7,6 +7,8 @@
 
 //*  Declare any parameters you deem necessary
 
+//*  EXAMPLES:
+//*  "pizza"  -->  { p: 1, i: 1, z: 2, a: 1 }
 
 function charCount() {
 
