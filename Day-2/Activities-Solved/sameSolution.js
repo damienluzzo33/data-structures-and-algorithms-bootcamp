@@ -1,12 +1,12 @@
 //?  FREQUENCY COUNTER
 
-function same(arr, arr2) {
-    if(arr.length !== arr2.length) {
+function same(arr1, arr2) {
+    if(arr1.length !== arr2.length) {
         return false;
     }
     let frequencyCounter1 = {};
     let frequencyCounter2 = {};
-    for(let val of arr) {
+    for(let val of arr1) {
         frequencyCounter1[val] = (frequencyCounter1[val] || 0) + 1;
     }
     for(let val of arr2) {

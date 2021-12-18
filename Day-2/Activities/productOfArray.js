@@ -1,3 +1,5 @@
+//? RECURSION
+
 //* write a function that will give you the product of all items in the array recursively
 //* (Hint) use a helper function to affect the running total
 
@@ -19,3 +21,13 @@ function productOfArray(arr) {
 }
 
 // TODO: Invoke productOfArray with a correct input
+
+
+
+
+function pureProductOfArray(arr) {
+    // TODO: set up base case
+
+    // TODO: recursively call the function with a slice of the array and multiply result to the first element in the array
+
+}
