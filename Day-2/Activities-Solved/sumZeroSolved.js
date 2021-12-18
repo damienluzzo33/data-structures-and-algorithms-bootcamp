@@ -1,6 +1,6 @@
 //?  MULTIPLE POINTERS
 
-function zeroOut(arr) {
+function sumZero(arr) {
     let left = 0;
     let right = arr.length - 1;
     while(left < right) {
