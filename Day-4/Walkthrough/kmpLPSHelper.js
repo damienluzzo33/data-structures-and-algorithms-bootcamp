@@ -31,4 +31,5 @@ function lpsArray(pattern) {
 
 }
 
+//* export helper function
 module.exports = lpsArray;

@@ -10,3 +10,6 @@
 
 //* What is it that we are looking to return in the end? How to we keep track of that?
 
+function naiveStringSearch(text, pattern) {
+    
+}
