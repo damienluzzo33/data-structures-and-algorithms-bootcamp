@@ -12,7 +12,7 @@ function insertionSort(arr) {
     for (var i = 1; i < arr.length; i++) {
         // TODO: Create a variable called currentValue and assign it the value of the array at i
 
-        // TODO: Create a nest for loop (easier) or a while loop (with an additional variable to create an variable "index tracker" called j)
+        // TODO: Create a nested for loop (easier) or a while loop (with an additional variable to create an variable "index tracker" called j)
 
         //! This part can be tricky! You want to decrement your looping from the value to the left of i until (and including) the 0 index 
         // var j = ... 

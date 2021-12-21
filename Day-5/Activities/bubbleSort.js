@@ -4,7 +4,7 @@
 
 //@ Hint: Use the swapping helpers that we just introduced
 
-//*  var temp = arr[index1];
+//*  let temp = arr[index1];
 //*  arr[index1] = arr[index2];
 //*  arr[index2] = temp;
 //@  OR
@@ -14,12 +14,12 @@
 //@ FIRST TRY THE SIMPLE APPROACH
 
 function bubbleSort(arr) {
-    // TODO: Create a loop that starts at the beginning of the array to the end
-
-        // TODO: Create another loop that starts at the beginning and ends at i - 1
-
-            // TODO: Inside the inner loop do comparsions to see how the current element compares to the next element, if the current is bigger than the next, swap the two elements
-
+    // TODO: Create a loop that starts at the beginning of the array and loops to the end
+    for (let i = 0; i < arr.length; i++) {
+        // TODO: Create another loop that starts at the beginning and goes to the end
+        
+            // TODO: Inside the inner loop do comparisons to see how the current element compares to the next element, if the current is bigger than the next, swap the two elements
+    }
     // TODO: return the sorted array 
 }
 
