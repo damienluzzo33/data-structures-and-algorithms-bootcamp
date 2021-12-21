@@ -1,3 +1,14 @@
+//? SELECTION SORT
+
+//* Write a function that takes in an array and uses the selection sort method to sort the array from smallest to biggest
+
+//@ Hint: Use the swapping helpers from before!
+
+//*  var temp = arr[index1];
+//*  arr[index1] = arr[index2];
+//*  arr[index2] = temp;
+//@  OR
+//*  [arr[index1], arr[index2]] = [arr[index2], arr[index1]];
 
 
 function selectionSort(arr) {
@@ -8,7 +19,10 @@ function selectionSort(arr) {
 
             // TODO: if the current element of the outer loop is greater than the inner loop elements, replace the current element index with j
 
-        // TODO: once the inner loop finishes, swap the current element index with the current i value in the outer loop
+        // TODO: once the inner loop finishes, if the value of current element has changed, then swap the current element index with the current i value in the outer loop
 
     // TODO: return the sorted array
 }
+
+console.log(selectionSort([15,4,13,2,11]));
+//* Expected Result: [2,4,11,13,15]
