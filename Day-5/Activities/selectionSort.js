@@ -10,22 +10,17 @@
 //@  OR
 //*  [arr[index1], arr[index2]] = [arr[index2], arr[index1]];
 
-function selectionSort(arr) {
-    for (let i = 0; i < arr.length; i++) {
-        // TODO: Create a variable called lowestIndex that starts off equal to the value of i
 
-        // TODO: Create a nested for loop that iterates from the index after the current value of i to the end of the array
-        for () {
-            // TODO: Check to see if the value at j is less than the value of the current lowest index
-            if () {
-                // TODO: if so, we need to update the lowest index
-            }
-        }
-        // TODO: Check to see if the value of currentIndex has changed
-        if () {
-            // TODO: If it has changed, then we need to swap the values
-        }
-    }
+function selectionSort(arr) {
+    // TODO: create a loop that starts at the beginning of the array to the end
+    // TODO: create a variable called current element that represents the current element of the outer loop iteration
+
+        // TODO: create an inner loop that starts at the second element in the array, i + 1, and goes to the end
+
+            // TODO: if the current element of the outer loop is greater than the inner loop elements, replace the current element index with j
+
+        // TODO: once the inner loop finishes, if the value of current element has changed, then swap the current element index with the current i value in the outer loop
+
     // TODO: return the sorted array
 }
 
