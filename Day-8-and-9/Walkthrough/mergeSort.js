@@ -59,3 +59,14 @@ function mergeSort(arr) {
     // TODO: call the mergeHelper function with the two halves we've shopped up and return the result
     
 }
+
+console.log(mergeSort([13,9,11,3,7,5,15,1]));
+//* Expected Result: [1,3,5,7,9,11,13,15]
+
+
+//* Merge Helper : O(n)
+//* Decomposition : O(log n)
+
+//* Merge Sort : O (n log n)
+
+//* For data agnostic sorting algorithms, this is the BEST time complexity we can get
