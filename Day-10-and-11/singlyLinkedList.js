@@ -130,9 +130,13 @@ class SinglyLinkedList {
         let previous = null;
         let next;
         for(let i = 0; i < this.length; i++) {
+            //* store the next node to be reversed into variable
             next = current.next;
+            //* reverse the pointer of the current node to point to the node it needs to be pointed to
             current.next = previous;
+            //* keep track of the current node as the previous because we're moving to the next node to be reversed
             previous = current;
+            //* move onto the next node to be reversed
             current = next;
         }
         return this;
